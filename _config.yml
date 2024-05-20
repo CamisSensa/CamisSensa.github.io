@@ -110,13 +110,23 @@ content:
     layout: list
     content:
       - layout: top-right
-        title: Institution name
-        sub_title: Qualifications (eg. BA Performing Arts)
-        caption: Date Range (eg. 2016 - 2019)
+        title: "Universidade de São Paulo"  # Institution name
+        sub_title: "MSc of Science (MS), Applied Physics"  # Qualifications
+        caption: "2016 - 2017"  # Date Range
         quote: >
-          Short institution or course description (optional)
+          Mestrado em Física Aplicada, Universidade de São Paulo - USP -Título da Dissertação: “ Implementation of Magnetic Resonance Imaging Protocols for Morphological Studies of Porous Media”  # Short institution or course description (optional)
         description: | # this will include new lines to allow paragraphs
-          Description of qualification
+          Mestrado em Física Aplicada, Universidade de São Paulo - USP -Título da Dissertação: “ Implementation of Magnetic Resonance Imaging Protocols for Morphological Studies of Porous Media” …ver mais
+      - layout: top-right
+        title: "Universidade de São Paulo"  # Institution name
+        sub_title: "Bacharelado em Física, Physics"  # Qualifications
+        caption: "2012 - 2015"  # Date Range
+        quote: >
+          Bacharelado em Física, Physics  # Short institution or course description (optional)
+        description: | # this will include new lines to allow paragraphs
+          Bacharelado em Física, Physics
+
+          
   - title: A Little More About Me
     layout: text
     content: | # this will include new lines to allow paragraphs
