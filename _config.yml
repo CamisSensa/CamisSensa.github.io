@@ -84,6 +84,27 @@ content:
           Short description of the company (optional)
         description: | # this will include new lines to allow paragraphs
           Description of role
+- layout: right
+        title: "Safra"  # Company name
+        sub_title: "Sr. Data Scientist - Analytics"  # Job title
+        caption: "De dez de 2022 a out de 2023 (11 meses)"  # Date Range
+        location: "São Paulo, Brasil"  # Location
+        quote: >
+          Short description of the company (optional)
+        description: | # this will include new lines to allow paragraphs
+          Description of role
+          - layout: right
+        title: "Santander Brasil"  # Company name
+        sub_title: "Data & Analytics - CRM pleno"  # Job title
+        caption: "De fev de 2022 a dez de 2022 (11 meses)"  # Date Range
+        location: "São Paulo, Brasil"  # Location
+        quote: >
+          Short description of the company (optional)
+        description: | # this will include new lines to allow paragraphs
+          Description of role
+
+
+          
   - title: Education
     layout: list
     content:
