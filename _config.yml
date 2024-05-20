@@ -64,18 +64,19 @@ content:
           Short overview of the project (optional)
         description: | # this will include new lines to allow paragraphs
           Description about the work on/with the project
-  - title: Experience
+   - title: Experience
     layout: list
     content:
-     - layout: right
-        title: "Nubank"  # Company name
-        sub_title: "Senior Business Analyst - CRM"  # Job title
-        caption: "Desde out de 2023 até o momento (8 meses)"  # Date Range
-        location: "São Paulo, Brasil (Híbrida)"  # Location
+      - layout: right
+        title: Company name
+        sub_title: Job title
+        caption: Date Range (eg. November 2016 - present)
+        link: Link to company (optional)
         quote: >
           Short description of the company (optional)
         description: | # this will include new lines to allow paragraphs
           Description of role
+          
   - title: Education
     layout: list
     content:
