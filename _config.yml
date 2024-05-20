@@ -24,9 +24,9 @@ linkedin_username: https://www.linkedin.com/in/camilacardosobueno/
 
 # Additional icon links
 additional_links:
-- title: Link name
-  icon: Font Awesome brand icon name (eg. fab fa-twitter) (https://fontawesome.com/icons?d=gallery&s=brands&m=free)
-  url: Link url (eg. https://google.com)
+  - title: Link name
+    icon: Font Awesome brand icon name (eg. fab fa-twitter) (https://fontawesome.com/icons?d=gallery&s=brands&m=free)
+    url: Link url (eg. https://google.com)
 # - title: another link
 #   icon: font awesome brand icon name (eg. fab fa-twitter) (https://fontawesome.com/icons?d=gallery&s=brands&m=free)
 #   url: Link url (eg. https://google.com)
@@ -43,13 +43,13 @@ about_profile_image: Directory of profile image (eg. images/profile.jpg)
 about_content: |
   Olá! Eu sou Camila Cardoso, uma entusiasta de dados apaixonada por desvendar os segredos escondidos por trás das informações. Me formei em Física Aplicada pela USP de São Carlos e obtive meu mestrado em Física na mesma instituição. Minha jornada acadêmica foi muito mais do que apenas aprender fórmulas e teorias - ela me proporcionou um conjunto de habilidades valiosas, desde comunicação até liderança e trabalho em equipe, adquiridas através de projetos desafiadores e experiências enriquecedoras.
 
-Atualmente, estou imersa no universo da análise de dados na equipe de CRM PF Analytics. Aqui, minha missão é desvendar padrões, identificar oportunidades e moldar estratégias que impulsionem o crescimento da instituição. Sou obcecada pela otimização do Next Best Offer (NBO) e estou sempre em busca de novas abordagens inovadoras para levar nossas campanhas a novos patamares.
+  Atualmente, estou imersa no universo da análise de dados na equipe de CRM PF Analytics. Aqui, minha missão é desvendar padrões, identificar oportunidades e moldar estratégias que impulsionem o crescimento da instituição. Sou obcecada pela otimização do Next Best Offer (NBO) e estou sempre em busca de novas abordagens inovadoras para levar nossas campanhas a novos patamares.
 
-Antes disso, na Safra, mergulhei de cabeça no mundo dos dados como Cientista de Dados Sênior. Fui responsável por desenvolver modelos preditivos complexos que impulsionaram as decisões estratégicas em toda a organização. Também tive a oportunidade de explorar os intricados detalhes do comportamento do cliente e contribuir diretamente para o sucesso das campanhas de marketing.
+  Antes disso, na Safra, mergulhei de cabeça no mundo dos dados como Cientista de Dados Sênior. Fui responsável por desenvolver modelos preditivos complexos que impulsionaram as decisões estratégicas em toda a organização. Também tive a oportunidade de explorar os intricados detalhes do comportamento do cliente e contribuir diretamente para o sucesso das campanhas de marketing.
 
-Meu lema é "Dados são apenas o começo". Com habilidades avançadas em Python, PySpark e SQL, sou capaz de transformar dados brutos em insights acionáveis que impulsionam o crescimento dos negócios. Além disso, adoro visualização de dados, utilizando ferramentas como Looker Studio para criar painéis interativos que contam histórias e inspiram insights.
+  Meu lema é "Dados são apenas o começo". Com habilidades avançadas em Python, PySpark e SQL, sou capaz de transformar dados brutos em insights acionáveis que impulsionam o crescimento dos negócios. Além disso, adoro visualização de dados, utilizando ferramentas como Looker Studio para criar painéis interativos que contam histórias e inspiram insights.
 
-Estou constantemente em busca de novos desafios que me permitam expandir meus horizontes e contribuir para o sucesso da equipe e da empresa. Estou aberta a novas oportunidades e colaborações - vamos nos conectar e explorar o poder dos dados juntos!
+  Estou constantemente em busca de novos desafios que me permitam expandir meus horizontes e contribuir para o sucesso da equipe e da empresa. Estou aberta a novas oportunidades e colaborações - vamos nos conectar e explorar o poder dos dados juntos!
 
 
 content:
