@@ -1,6 +1,6 @@
 # Site
-repository: Git repository where your resume will be hosted, only required if you are hosting on GitHub (eg. sproogen/modern-resume-theme)
-# favicon: Directory of your favicon (eg. images/favicon.ico)(optional)
+repository: sproogen/modern-resume-theme  # Git repository where your resume will be hosted, only required if you are hosting on GitHub
+# favicon: Directory of your favicon (optional)
 
 # Content configuration version
 version: 2
@@ -8,7 +8,7 @@ version: 2
 # Personal info
 name: Camila Cardoso
 title: Data & Analytics
-email: camilabaleiro@gmail.com
+email: camilabaleiro@gmail.comm
 # email_title: Email (Email title override)
 phone: Your phone number (optional)
 # phone_title: Phone (Phone title override)
@@ -25,10 +25,10 @@ linkedin_username: https://www.linkedin.com/in/camilacardosobueno/
 # Additional icon links
 additional_links:
 - title: Link name
-  icon: Font Awesome brand icon name (eg. fab fa-twitter) (https://fontawesome.com/icons?d=gallery&s=brands&m=free)
+  icon: fab fa-twitter  # Font Awesome brand icon name
   url: Link url (eg. https://google.com)
 # - title: another link
-#   icon: font awesome brand icon name (eg. fab fa-twitter) (https://fontawesome.com/icons?d=gallery&s=brands&m=free)
+#   icon: fab fa-twitter  # Font Awesome brand icon name
 #   url: Link url (eg. https://google.com)
 
 # Google Analytics and Tag Manager
@@ -41,13 +41,18 @@ additional_links:
 # about_title: About Me (Use this to override about section title)
 about_profile_image: Directory of profile image (eg. images/profile.jpg)
 about_content: | # this will include new lines to allow paragraphs
+ Olá! Sou Camila Cardoso, bacharel em Física e mestre em Física Aplicada pela USP de São Carlos. Meu percurso acadêmico não apenas me forneceu uma base sólida em ciência, mas também me permitiu desenvolver habilidades essenciais, como comunicação, liderança, planejamento e trabalho em equipe, através de minha participação ativa em grupos estudantis.
 
-Olá! Sou Camila Cardoso, bacharel em Física e mestre em Física Aplicada pela USP de São Carlos. Meu percurso acadêmico não apenas me forneceu uma base sólida em ciência, mas também me permitiu desenvolver habilidades essenciais, como comunicação, liderança, planejamento e trabalho em equipe, através de minha participação ativa em grupos estudantis.
 Atualmente, faço parte da equipe de CRM PF Analytics, onde desempenho um papel fundamental no mapeamento, estruturação, análise e proposição de mudanças nos modelos que impulsionam as campanhas do banco. Nosso objetivo é estruturar o Next Best Offer (NBO) e criar estratégias inovadoras para impulsionar ainda mais o crescimento da instituição.
 Minha jornada profissional teve início no mercado financeiro, onde atuei como Analista de Dados, responsável por estudos, monitoramento de performance e projeções de vendas. Com o tempo, migrei para a área de Ciência de Dados, desenvolvendo modelos de propensão para CRM e buscando otimizar estratégias de relacionamento com clientes. Atualmente, trabalho como Analista de Dados, utilizando minha expertise em Data Analytics para analisar dados e impulsionar o negócio.
 Tenho uma paixão por aplicar estatística para extrair insights valiosos dos dados e meu objetivo é sempre atuar como uma ponte entre a parte técnica e as necessidades do negócio. Estou constantemente em busca de desafios que me permitam crescer profissionalmente e contribuir de forma significativa para o sucesso da equipe e da empresa.
 Estou sempre aberta a novas oportunidades e colaborações. Vamos nos conectar e explorar maneiras de crescer juntos!
 
+  You can even add paragraphs by using empty lines like this and add anything else [markdown](https://www.markdownguide.org/getting-started#what-is-markdown) supports such as
+    - Lists
+    - Tables
+    - <a href="google.com">Links</a>
+    - Images ![alt text](/images/landscape-trees.jpg "Trees")
 
 content:
   - title: Projects # Title for the section
@@ -74,14 +79,14 @@ content:
     layout: list
     content:
       - layout: right
-        title: Company name
-        sub_title: Job title
-        caption: Date Range (eg. November 2016 - present)
+        title: "Your Company Name"  # Company name
+        sub_title: "Your Job Title"  # Job title
+        caption: "Date Range"  # Date Range (eg. November 2016 - present)
         link: Link to company (optional)
         quote: >
           Short description of the company (optional)
         description: | # this will include new lines to allow paragraphs
-          Description of role
+          Description of your role and responsibilities at the company
   - title: Education
     layout: list
     content:
@@ -118,12 +123,4 @@ plugins:
 exclude : [
   "Gemfile",
   "Gemfile.lock",
-  "node_modules",
-  "vendor/bundle/",
-  "vendor/cache/",
-  "vendor/gems/",
-  "vendor/ruby/",
-  "lib/",
-  "scripts/",
-  "docker-compose.yml",
-  ]
+ 
