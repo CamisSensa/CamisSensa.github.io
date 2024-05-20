@@ -82,7 +82,7 @@ content:
         caption: "Desde out de 2023 até o momento (8 meses)"  # Date Range
         location: "São Paulo, Brasil (Híbrida)"  # Location
         quote: >
-          Short description of the company (optional)
+          
         description: | # this will include new lines to allow paragraphs
           Como Analista de Dados Sênior, estou atualmente focada no desenvolvimento de dashboards de monitoramento do NBO, além de realizar análises e estudos para impulsionar as campanhas de marketing. Também sou responsável pela análise de experimentos de campanhas e avaliação de infraestruturas novas. Além disso, tenho a responsabilidade de desenvolver métricas que respondam perguntas específicas e ajudem a impulsionar e direcionar as tomadas de decisão do banco. Nesse cargo, tenho a oportunidade de aplicar minha expertise em análise de dados para contribuir com o crescimento e sucesso das estratégias de marketing da empresa.
 
@@ -92,18 +92,18 @@ content:
         caption: "De dez de 2022 a out de 2023 (11 meses)"  # Date Range
         location: "São Paulo, Brasil"  # Location
         quote: >
-          Short description of the company (optional)
+          
         description: | # this will include new lines to allow paragraphs
-          Description of role
+          Como Cientista de Dados Sênior, tive a oportunidade de trabalhar com o desenvolvimento de modelos de propensão utilizando XGBoosting para todas as áreas do banco. Minha principal responsabilidade era fornecer insights acionáveis e soluções analíticas para auxiliar na tomada de decisões estratégicas. Nesse cargo, aprofundei meu conhecimento em algoritmos de machine learning e pude aplicá-los em projetos de grande escala
       - layout: right
         title: "Santander Brasil"  # Company name
         sub_title: "Data & Analytics - CRM pleno"  # Job title
         caption: "De jun de 2021 a dez de 2022 (1 ano e 7  meses)"  # Date Range
         location: "São Paulo, Brasil"  # Location
         quote: >
-          Short description of the company (optional)
+          
         description: | # this will include new lines to allow paragraphs
-          Description of role
+          Como Analista de Dados Junior e Pleno, atuei na área de CRM, onde fui responsável por monitorar os modelos de propensão para o NBO (Next Best Offer). Além disso, realizei estudos e análises de perfil para identificar oportunidades de melhoria das campanhas. Durante esse período, pude desenvolver habilidades analíticas e aprofundar meu conhecimento em estratégias de marketing.
 
 
           
