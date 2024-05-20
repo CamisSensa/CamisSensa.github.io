@@ -40,16 +40,17 @@ additional_links:
 # About Section
 # about_title: About Me (Use this to override about section title)
 about_profile_image: Directory of profile image (eg. images/profile.jpg)
-about_content: | # this will include new lines to allow paragraphs
+about_content: |
   Olá! Sou Camila Cardoso, bacharel em Física e mestre em Física Aplicada pela USP de São Carlos. Meu percurso acadêmico não apenas me forneceu uma base sólida em ciência, mas também me permitiu desenvolver habilidades essenciais, como comunicação, liderança, planejamento e trabalho em equipe, através de minha participação ativa em grupos estudantis.
 
-Atualmente, faço parte da equipe de CRM PF Analytics, onde desempenho um papel fundamental no mapeamento, estruturação, análise e proposição de mudanças nos modelos que impulsionam as campanhas do banco. Nosso objetivo é estruturar o Next Best Offer (NBO) e criar estratégias inovadoras para impulsionar ainda mais o crescimento da instituição.
+  Atualmente, faço parte da equipe de CRM PF Analytics, onde desempenho um papel fundamental no mapeamento, estruturação, análise e proposição de mudanças nos modelos que impulsionam as campanhas do banco. Nosso objetivo é estruturar o Next Best Offer (NBO) e criar estratégias inovadoras para impulsionar ainda mais o crescimento da instituição.
 
-Minha jornada profissional teve início no mercado financeiro, onde atuei como Analista de Dados, responsável por estudos, monitoramento de performance e projeções de vendas. Com o tempo, migrei para a área de Ciência de Dados, desenvolvendo modelos de propensão para CRM e buscando otimizar estratégias de relacionamento com clientes. Atualmente, trabalho como Analista de Dados, utilizando minha expertise em Data Analytics para analisar dados e impulsionar o negócio.
+  Minha jornada profissional teve início no mercado financeiro, onde atuei como Analista de Dados, responsável por estudos, monitoramento de performance e projeções de vendas. Com o tempo, migrei para a área de Ciência de Dados, desenvolvendo modelos de propensão para CRM e buscando otimizar estratégias de relacionamento com clientes. Atualmente, trabalho como Analista de Dados, utilizando minha expertise em Data Analytics para analisar dados e impulsionar o negócio.
 
-Tenho uma paixão por aplicar estatística para extrair insights valiosos dos dados e meu objetivo é sempre atuar como uma ponte entre a parte técnica e as necessidades do negócio. Estou constantemente em busca de desafios que me permitam crescer profissionalmente e contribuir de forma significativa para o sucesso da equipe e da empresa.
+  Tenho uma paixão por aplicar estatística para extrair insights valiosos dos dados e meu objetivo é sempre atuar como uma ponte entre a parte técnica e as necessidades do negócio. Estou constantemente em busca de desafios que me permitam crescer profissionalmente e contribuir de forma significativa para o sucesso da equipe e da empresa.
 
-Estou sempre aberta a novas oportunidades e colaborações. Vamos nos conectar e explorar maneiras de crescer juntos!
+  Estou sempre aberta a novas oportunidades e colaborações. Vamos nos conectar e explorar maneiras de crescer juntos!
+
 
 content:
   - title: Projects # Title for the section
