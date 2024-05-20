@@ -84,7 +84,8 @@ content:
         quote: >
           Short description of the company (optional)
         description: | # this will include new lines to allow paragraphs
-          Description of role
+          Como Analista de Dados Sênior, estou atualmente focada no desenvolvimento de dashboards de monitoramento do NBO, além de realizar análises e estudos para impulsionar as campanhas de marketing. Também sou responsável pela análise de experimentos de campanhas e avaliação de infraestruturas novas. Além disso, tenho a responsabilidade de desenvolver métricas que respondam perguntas específicas e ajudem a impulsionar e direcionar as tomadas de decisão do banco. Nesse cargo, tenho a oportunidade de aplicar minha expertise em análise de dados para contribuir com o crescimento e sucesso das estratégias de marketing da empresa.
+
       - layout: right
         title: "Safra"  # Company name
         sub_title: "Sr. Data Scientist - Analytics"  # Job title
