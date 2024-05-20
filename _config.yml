@@ -101,6 +101,27 @@ content:
         sub_title: "Data & Analytics - CRM pleno"  # Job title
         caption: "De fev de 2022 a dez de 2022 (11 meses)"  # Date Range
         location: "São Paulo, Brasil"  # Location
+
+
+ # Footer
+footer_show_references: true
+# references_title: References on request (Override references text)
+
+# Build settings
+# theme: modern-resume-theme (Use this is you are hosting your resume yourself)
+# remote_theme: sproogen/modern-resume-theme (Use this if you are hosting your resume on GitHub)
+
+sass:
+  sass_dir: _sass
+  style: compressed
+
+plugins:
+ - jekyll-seo-tag
+
+exclude : [
+  "Gemfile",
+  "Gemfile.lock",
+ 
         quote: >
           Responsável pela análise, monitoramento e garantia dos modelos de CRM. Além de cuidar do NBO e fazer a ponte de estratégia de negócios e modelagem. Aprendizado de máquina, Git e mais...  # Short description of the company (optional)
         description: | # this will include new lines
